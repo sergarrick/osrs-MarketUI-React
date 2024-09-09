@@ -1,0 +1,33 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6rem;
+  min-height: 100vh;
+}
+
+
+.badPriceRow {
+    background-color: darkred;
+}
+
+.goodPriceRow {
+    background-color: #1a3300;
+}
+
+.barrowsPair {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-right: 5px;
+}
+
+.divider {
+    background-color: #9FA8DA;
+    height: 2px;
+    width: 100%;
+}
+
+.checkSpace {
+    width: 25px;
+}
